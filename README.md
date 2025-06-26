@@ -11,10 +11,10 @@
 
 #
 <h4 align="center">👋 Hello there!</h4>
-My name is **Luiz Henrique**, I'm a **20 years old**, Computer Science student currently in my 3rd semester.  
-I'm passionate about technology ⚙️ and software development 💻, with a strong focus on **full-stack development** using the **Java + React stack**.
+My name is <strong>Luiz Henrique</strong>, I'm a <strong>20 years old</strong>, Computer Science student currently in my 3rd semester.  
+I'm passionate about technology ⚙️ and software development 💻, with a strong focus on <strong>full-stack development</strong> using the <strong>Java + React stack</strong>.
 
-At the moment, I'm attending the **☕ Java Full-Stack Bootcamp** by **Generation Brazil**, where I'm enhancing my skills in building complete web applications — from backend to frontend.
+At the moment, I'm attending the <strong>☕ Java Full-Stack Bootcamp</strong> by <strong>Generation Brazil</strong>, where I'm enhancing my skills in building complete web applications — from backend to frontend.
 
 🌍 I speak **Portuguese (Brazilian)** and **English**.
 
@@ -38,7 +38,6 @@ At the moment, I'm attending the **☕ Java Full-Stack Bootcamp** by **Generatio
 #
 
 <h3 align="center">🚀 Featured Projects</h3>
-### 📌 Featured Projects
 
 **Blog API** — *Spring Boot + React*  
 A personal blog platform where users can create, edit, and view posts. Built to practice REST API concepts with Java and Spring Boot.  
