@@ -35,6 +35,29 @@ At the moment, I'm attending the <strong>☕ Java Full-Stack Bootcamp</strong> b
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" style="padding-right:10px"/>
 </p>
 
+
+<h3 align="center">GitHub Status</h3>
+
+
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="Estatísticas GitHub" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=luizsantos7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=60" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Principais Linguagens" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsantos7&layout=compact&theme=tokyonight&langs_count=10&title=Principais%20Linguagens" 
+      />
+    </td>
+  </tr>
+</table>
+
 #
 
 <h3 align="center">🚀 Featured Projects</h3>
