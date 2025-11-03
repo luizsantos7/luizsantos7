@@ -11,10 +11,17 @@
 
 #
 <h4 align="center">👋 Hello there!</h4>
-My name is <strong>Luiz Henrique</strong>, I'm a <strong>20 years old</strong>, Computer Science student currently in my 3rd semester.  
-I'm passionate about technology ⚙️ and software development 💻, with a strong focus on <strong>full-stack development</strong> using the <strong>Java + React stack</strong>.
 
-At the moment, I'm attending the <strong>☕ Java Full-Stack Bootcamp</strong> by <strong>Generation Brazil</strong>, where I'm enhancing my skills in building complete web applications — from backend to frontend.
+My name is <strong>Luiz Henrique</strong>, I'm <strong>20 years old</strong> and a <strong>Computer Science student</strong> currently in my <strong>3rd semester</strong>.
+I'm passionate about <strong>technology</strong> ⚙️ and <strong>software development</strong> 💻, with a strong focus on <strong>full-stack development</strong> using the <strong>Java + React stack</strong>.
+
+I've successfully completed the <strong>☕ Java Full-Stack Bootcamp</strong> by <strong>Generation Brazil</strong>, where I gained hands-on experience building complete web applications — from backend to frontend.
+
+Additionally, I participated in the <strong>Devs do Agi Program</strong> by <strong>Agibank</strong>, which strengthened my knowledge of <strong>software architecture</strong>, <strong>agile methodologies</strong>, and <strong>cloud technologies</strong>.
+
+I'm always exploring <strong>new technologies</strong> and <strong>best practices</strong> to create <strong>scalable</strong>, <strong>secure</strong>, and <strong>high-quality software solutions</strong> that make an impact. 🚀
+
+
 
 🌍 I speak **Portuguese (Brazilian)** and **English**.
 
